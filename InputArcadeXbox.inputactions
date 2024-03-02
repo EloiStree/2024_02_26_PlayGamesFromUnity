@@ -1,0 +1,94 @@
+{
+    "name": "InputArcadeXbox",
+    "maps": [
+        {
+            "name": "ArcadeXbox",
+            "id": "5edddbfa-807b-4c4b-93cb-773d4b59dadf",
+            "actions": [
+                {
+                    "name": "HorizontalLeft",
+                    "type": "Value",
+                    "id": "36840abd-5f00-4e33-8a9f-cf79386e8b95",
+                    "expectedControlType": "Axis",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "VerticalLeft",
+                    "type": "Value",
+                    "id": "bd7a59ec-c5ee-4c97-b16f-dae14d5484de",
+                    "expectedControlType": "Axis",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "HorizontalRight",
+                    "type": "Value",
+                    "id": "fa499d1d-1c86-4e28-8d72-721576efa965",
+                    "expectedControlType": "Axis",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "VerticalRight",
+                    "type": "Value",
+                    "id": "133c3a29-6887-4ee2-a38c-650c2f3c1332",
+                    "expectedControlType": "Axis",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "f6063c58-903b-4570-8628-c72b188f6b60",
+                    "path": "<Gamepad>/leftStick/x",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "HorizontalLeft",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "b572b104-a77f-4186-99b1-f00c450d51a0",
+                    "path": "<Gamepad>/leftStick/y",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "VerticalLeft",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "ab652ac9-e30f-4955-bb5b-8c462e636c71",
+                    "path": "<Gamepad>/rightStick/x",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "HorizontalRight",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "cae49488-3c54-4ef5-b42a-3936e67ce8b9",
+                    "path": "<Gamepad>/rightStick/y",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "VerticalRight",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

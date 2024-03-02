@@ -1,0 +1,24 @@
+1 Restart 0
+0 Restart 100
+
+1 Right 100
+0 Right 550
+1 Z 200
+0 Z 300
+1 Up 580
+0 Up 700
+1 Up 850
+1 Left 900
+1 Z 1000
+0 Z 1100
+0 Left 1200
+1 Right 1600
+0 Right 2000
+0 Up 900
+1 Up 1500
+0 Up 1600
+1 Up 1800
+0 Up 2000
+1 Z 1920
+0 Z 3020
+
